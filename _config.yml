@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://rubymerchant.github.io
+title: Test Blog
+email: jatinder.saundh@gmail.com
+author: Jatinder Singh
+description: Test Blog
+paginate: 3
+google_analytics: 
